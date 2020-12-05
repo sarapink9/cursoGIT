@@ -1,11 +1,15 @@
 body {
-  background-color: #DE71F7; 
+  background-color: #FFFFFF; 
 font-weight: bold;
 font-family: 'Sofia';font-size: 22px;
 }
 
+section{
+   box-shadow: 6px 20px 10px black;
+}
 ul {
-	color: #06118F;
+	color: #000000;
+	font-family: 'Balsamiq Sans', cursive;
 }
 
 h2 {
